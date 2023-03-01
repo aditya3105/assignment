@@ -1,10 +1,22 @@
 {
   "customer_info": {
-    "name": "John Smith",
-    "dob": "01/01/1980",
-    "address": "123 Main St, Anytown USA 12345",
-    "phone": "555-555-5555",
-    "email": "johnsmith@example.com"
+    "personal_info": [
+      {
+        "first_name": "John",
+        "last_name": "Smith",
+        "date_of_birth": "01/01/1980",
+        "gender": "Male",
+        "occupation": "Engineer",
+        "identification_number": "34891021078800888"
+      }
+    ],
+    "contact_info": [
+      {
+        "address": "123 Main St, Anytown USA 12345",
+        "phone": "555-555-5555",
+        "email": "johnsmith@example.com"
+      }
+    ]
   },
   "current_insurance_info": {
     "policy_number": "XYZ789",
