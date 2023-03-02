@@ -21,7 +21,7 @@
   "current_insurance_info": {
     "policy_number": "XYZ789",
     "coverage_amount": 50000,
-    "coverage_type": "term",
+    "coverage_type": "Term life insurance",
     "start_date": "01/01/2021",
     "end_date": "01/01/2022",
     "premium": 250
@@ -29,7 +29,7 @@
   "new_insurance_info": {
     "policy_number": "ABC123",
     "coverage_amount": 100000,
-    "coverage_type": "term",
+    "coverage_type": "Term life insurance",
     "start_date": "01/01/2022",
     "end_date": "01/01/2023",
     "premium": 500
@@ -37,18 +37,18 @@
   "kyc_documents": {
     "id_proof": [
       {
-        "type": "passport",
+        "type": "Passport",
         "number": "123456789",
         "expiry_date": "01/01/2025",
-        "scan": "https://example.com/passport_scan.jpg"
+        "scan": "https://i.pinimg.com/originals/1d/85/6b/1d856bbc4d39f25f05a114d5d4590f3a.jpg"
       }
     ],
     "address_proof": [
       {
-        "type": "utility_bill",
+        "type": "Utility Bill",
         "provider": "Electric Company",
         "issue_date": "01/01/2022",
-        "scan": "https://example.com/bill_scan.jpg"
+        "scan": "https://files.jotform.com/jotformapps/utility-bill-template-6de9446af4f1724a198ee76f1ad6e470_og.png"
       }
     ]
   }
